@@ -107,6 +107,3 @@ public OnPlayerUpdate(playerid)
 - Use `AC_ShouldKick/AC_ShouldBan` para punir; respeitam período de graça e categorias
 - Não chame `AC_Process` por player; mantenha um único timer global
 - Sempre chame `AC_UpdateCommand` após executar comandos de jogador
-
-## Licença
-Sem licença definida no include. Defina a licença ao publicar no GitHub (ex.: MIT).
